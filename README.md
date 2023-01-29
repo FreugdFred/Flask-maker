@@ -7,7 +7,7 @@ Python Flask App Maker makes your routes and files for your next flask project
 Download the files, when downloaded open the folder and type the routes you want to create. For example I will create a login route, a logout route a home route and a register route:
 
 ```bash
-python flaskmaker.py login logout register home
+python makeflask.py login logout register home
 ```
 
 Your flask app is now created in the directory of Flask Maker!
